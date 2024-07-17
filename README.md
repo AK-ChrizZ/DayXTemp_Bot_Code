@@ -5,6 +5,6 @@ With /temphelp you can see all the commands you need in discord.
 in Create_bot_exe_guide.py I explain how to make the bot an executable .exe. Make sure you copy your Discord bot token into the config file, otherwise the bot cannot work.
 The entire bot code is located in the DayXTemp_Bot_Code file. You are welcome to modify it if you would like to add useful functions.
 
-The Code was Creat in Python.
+The Code was Create in Python.
 
 Created by Ak-ChrizZ (Lets Chico) 17.07.2024
